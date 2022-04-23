@@ -13,7 +13,7 @@ public class Main {
     }
 }
 ```
------------------------------
+
 <h3 align="center">Currently working on:</h3>
 <p align="center">
     <a href="https://github.com/kipijz/flight-planner">
@@ -25,7 +25,7 @@ public class Main {
 </p>
 
 
------------------------------
+
 <h3 align="center">Contact me:</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
