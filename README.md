@@ -1,8 +1,6 @@
-```
+```java
 public class Main {
-
     public static void main(String[] args) {
-    
         Developer kristapsSorokins = new Developer();
         kristapsSorokins.setName("Kristaps");
         kristapsSorokins.setLastName("Sorokins");
