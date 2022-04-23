@@ -14,16 +14,20 @@ public class Main {
 }
 ```
 -----------------------------
- <h3 align="center">Currently working on:</h3>
- <p align="center">
+<h3 align="center">Currently working on:</h3>
+<p align="center">
     <img src="https://i.imgur.com/cR7qbQF.jpg" />
     <img src="https://i.imgur.com/xlSmAUE.jpg" />
 </p>
 
 
 -----------------------------
- <h3 align="center">Contact me:</h3>
- <p align="center">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<h3 align="center">Contact me:</h3>
+<p align="center">
+        <a href="https://github.com/kipijz/flight-planner">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        <a href="https://www.codingame.com/profile/0e6ff05dbfb4905669a4da9e6fbdf7668835174">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
 </p>
