@@ -18,7 +18,6 @@ public class Main {
  <p align="center">
     <img src="https://i.imgur.com/cR7qbQF.jpg" />
     <img src="https://i.imgur.com/xlSmAUE.jpg" />
-    <img src="https://i.imgur.com/xlSmAUE.jpg" />
 </p>
 
 
