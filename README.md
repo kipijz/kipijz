@@ -1,4 +1,5 @@
-`public class Main {
+```
+public class Main {
     public static void main(String[] args) {
         Developer kristapsSorokins = new Developer();
         kristapsSorokins.setName("Kristaps");
@@ -10,4 +11,5 @@
                 "TDD", "Git", "HTML, CSS, Angular, TS and NodeJS basics");
         kristapsSorokins.setPassionate(true);
     }
-}`
+}
+```
