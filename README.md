@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**kipijz/kipijz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`public class Main {
+    public static void main(String[] args) {
+        Developer kristapsSorokins = new Developer();
+        kristapsSorokins.setName("Kristaps");
+        kristapsSorokins.setLastName("Sorokins");
+        kristapsSorokins.setAge(24);
+        kristapsSorokins.setFrom("Riga, Latvia");
+        kristapsSorokins.addSkills("Java", "Spring",
+                "Maven & Gradle", "HTTP & Web API Basics", "Unit Testing",
+                "TDD", "Git", "HTML, CSS, Angular, TS and NodeJS basics");
+        kristapsSorokins.setPassionate(true);
+    }
+}`
