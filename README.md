@@ -11,7 +11,7 @@ public class Main {
         kristapsSorokins.addSkills("Java", "Spring",
                 "Maven & Gradle", "HTTP & Web API Basics", "Unit Testing",
                 "TDD", "Git", "HTML, CSS, Angular, TS and NodeJS basics");
-        kristapsSorokins.setPassionate(true);
+        kristapsSorokins.setEagerToLearn(true);
     }
 }
 ```
