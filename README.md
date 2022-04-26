@@ -17,10 +17,10 @@ public class Main {
 <h3 align="center">Currently working on:</h3>
 <p align="center">
     <a href="https://github.com/kipijz/flight-planner">
-        <img src="https://i.imgur.com/cR7qbQF.jpg" />
+        <img src="https://i.imgur.com/LcvPBGT.jpg" />
     </a>
     <a href="https://www.codingame.com/profile/0e6ff05dbfb4905669a4da9e6fbdf7668835174">
-        <img src="https://i.imgur.com/xlSmAUE.jpg" />
+        <img src="https://i.imgur.com/t71dqJt.jpg" />
     </a>
 </p>
 
